@@ -1,0 +1,15 @@
+﻿{
+    "releases":  [
+                     {
+                         "arquivo_zip":  "JanPro_v1.0.0.zip",
+                         "data":  "2026-08-31 21:06:49",
+                         "tamanho_bytes":  2415925,
+                         "obrigatorio":  false,
+                         "tem_sql":  false,
+                         "versao":  "1.0.0",
+                         "url_zip":  "https://github.com/Maiconow/janpro/releases/download/v1.0.0/JanPro_v1.0.0.zip",
+                         "canal":  "Josue",
+                         "changelog":  "Versao inicial de lancamento JAN-PRO com Dashboard 3 Graficos e IA WhatsApp"
+                     }
+                 ]
+}
