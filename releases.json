@@ -1,26 +1,26 @@
 {
     "releases": [
         {
-            "versao": "1.0.0",
+            "versao": "1.0.1",
             "canal": "Josue",
-            "data": "2026-09-05",
-            "arquivo_zip": "JanPro_v1.0.0.zip",
-            "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.0/JanPro_v1.0.0.zip",
-            "tamanho_bytes": 2415925,
+            "data": "2026-09-07 06:10:00",
+            "arquivo_zip": "JanPro_v1.0.1.zip",
+            "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.1/JanPro_v1.0.1.zip",
+            "tamanho_bytes": 2432742,
             "obrigatorio": false,
             "tem_sql": false,
-            "changelog": "Versão inicial do JAN-PRO Gestão de Franquias. Dashboard financeiro, Ordens de Serviço, Contratos Mensais, Assistente IA WhatsApp e sistema de licenças automático."
+            "changelog": "Correção completa de acentuação e títulos, logo JAN-PRO limpo, validação de licença instantânea via API e otimizações gerais."
         },
         {
-            "versao": "1.0.0",
+            "versao": "1.0.1",
             "canal": "Geral",
-            "data": "2026-09-05",
-            "arquivo_zip": "JanPro_v1.0.0.zip",
-            "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.0/JanPro_v1.0.0.zip",
-            "tamanho_bytes": 2415925,
+            "data": "2026-09-07 06:10:00",
+            "arquivo_zip": "JanPro_v1.0.1.zip",
+            "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.1/JanPro_v1.0.1.zip",
+            "tamanho_bytes": 2432742,
             "obrigatorio": false,
             "tem_sql": false,
-            "changelog": "Versão inicial do JAN-PRO Gestão de Franquias."
+            "changelog": "Correção completa de acentuação e títulos, logo JAN-PRO limpo, validação de licença instantânea via API e otimizações gerais."
         }
     ]
 }
