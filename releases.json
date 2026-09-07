@@ -2,12 +2,12 @@
   "releases": [
     {
       "versao": "1.0.2",
-      "data": "2026-09-07 09:00:13",
+      "data": "2026-09-07 12:04:08",
       "canal": "Josue",
-      "url_zip": "https:\/\/github.com\/Maiconow\/janpro\/releases\/download\/v1.0.2\/JanPro_v1.0.2.zip",
+      "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.2/JanPro_v1.0.2.zip",
       "arquivo_zip": "JanPro_v1.0.2.zip",
-      "tamanho_bytes": 2432575,
-      "changelog": "Novas melhorias de performance, 3 graficos no dashboard e suporte a audio de voz no WhatsApp.",
+      "tamanho_bytes": 2227715,
+      "changelog": "Versão 1.0.2 com melhorias e correções.",
       "tem_sql": false,
       "obrigatorio": false
     }
