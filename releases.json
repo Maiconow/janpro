@@ -3,10 +3,10 @@
         {
             "versao": "1.0.1",
             "canal": "Josue",
-            "data": "2026-09-07 06:25:00",
+            "data": "2026-09-07 06:30:00",
             "arquivo_zip": "JanPro_v1.0.1.zip",
             "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.1/JanPro_v1.0.1.zip",
-            "tamanho_bytes": 4296556,
+            "tamanho_bytes": 2227885,
             "obrigatorio": false,
             "tem_sql": false,
             "changelog": "Correção completa de acentuação e títulos, logo JAN-PRO limpo, validação de licença instantânea via API e otimizações gerais."
@@ -14,10 +14,10 @@
         {
             "versao": "1.0.1",
             "canal": "Geral",
-            "data": "2026-09-07 06:25:00",
+            "data": "2026-09-07 06:30:00",
             "arquivo_zip": "JanPro_v1.0.1.zip",
             "url_zip": "https://github.com/Maiconow/janpro/releases/download/v1.0.1/JanPro_v1.0.1.zip",
-            "tamanho_bytes": 4296556,
+            "tamanho_bytes": 2227885,
             "obrigatorio": false,
             "tem_sql": false,
             "changelog": "Correção completa de acentuação e títulos, logo JAN-PRO limpo, validação de licença instantânea via API e otimizações gerais."
