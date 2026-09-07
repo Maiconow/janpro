@@ -4,8 +4,8 @@
       "cliente": "Josué Raupp - JAN-PRO SP",
       "documento": "12345678000190",
       "validade": "2026-09-08",
-      "ativo": false,
-      "bloqueado": true,
+      "ativo": true,
+      "bloqueado": false,
       "plano": "JAN-PRO Gestão + Módulo WhatsApp IA",
       "valor_mensal": 1000
     }
